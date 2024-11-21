@@ -85,6 +85,7 @@ Strategy
 Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam a bibendum mi, sed condimentum
 
 <ion-icon name="checkmark-circle-outline"></ion-icon>
+
 Sonsectetur adipisicing elit
 
 Exercitation ullamco laboris
